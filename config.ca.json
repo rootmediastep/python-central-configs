@@ -1,0 +1,16 @@
+{
+    "DATABASE_URL": "postgresql+asyncpg://postgres:postgres@10.10.0.32:5433/postgres",
+    "DATABASE_SCHEMA": "misa-services",
+    "INTERNAL_TOKEN": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIrODQ6MDMyNjgzNzI3NiIsImF1dGgiOiJST0xFX0FGRklMSUFURSxST0xFX1VTRVIsUk9MRV9TVE9SRSIsImNsaWVudElkIjoiZ29zZWxsIiwiY2xpZW50Q29kZSI6IlN0ZXBtZWRpYUAyMDI1IiwibG9jYXRpb25Db2RlIjoiVk4iLCJleHAiOjE3MzQ3NzU5ODZ9.agD0ceVyag2E4s0Mp2I8Uzw-gfthKFdnB1ALOEJOiGZo_3ZiRp22_yNjq3rXTCSYBoralOs3wdOYddFw6kzJsA",
+    "SIGNING_KEY": "b1b46ec3d7f8295e66c7e43d2f1c50eb94a8a5d4",
+    "MISA_CRM_API_URL": "https://crmconnect.misa.vn",
+    "MISA_ACCOUNTING_API_URL": "https://actapp.misa.vn",
+    "ISSUER": "issuer",
+    "AUDIENCE": "audience",
+    "EXPIRATION_SECONDS": 36000,
+    "REFRESH_TOKEN_EXPIRATION_SECONDS": 7200,
+    "CORS_ORIGINS": "http://localhost,http://localhost:8000,http://localhost:8080,https://ca-gosell.mediastep.com",
+    "MISA_ACCOUNTING_CUSTOMERS_TAKE": 1000,
+    "REDIS_URL": "redis://redis-service:6379",
+    "API_GOSELL_BASE_URL": "https://ca-api.mediastep.com"
+}
