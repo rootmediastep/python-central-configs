@@ -12,5 +12,5 @@
     "CORS_ORIGINS": "http://localhost,http://localhost:8000,http://localhost:8080,https://ca-gosell.mediastep.com",
     "MISA_ACCOUNTING_CUSTOMERS_TAKE": 1000,
     "REDIS_URL": "redis://redis-service:6379",
-    "API_GOSELL_BASE_URL": "https://ca-api.mediastep.com"
+    "API_GOSELL_BASE_URL": "https://ca-api.mediastep.ca"
 }
