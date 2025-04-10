@@ -12,5 +12,18 @@
     "CORS_ORIGINS": "http://localhost,http://localhost:8000,http://localhost:8080,https://dev-gosell.mediastep.com",
     "MISA_ACCOUNTING_CUSTOMERS_TAKE": 1000,
     "REDIS_URL": "redis://dev-redis.mediastep.com:6379",
-    "API_GOSELL_BASE_URL": "https://dev-api.mediastep.com"
+    "API_GOSELL_BASE_URL": "https://dev-api.mediastep.com",
+    "ELASTICSEARCH_URL": "http://dev-es6.mediastep.com:9022",
+    "KAFKA_SERVERS": "10.10.0.36:9092",
+    "DB_POOL_SIZE":20,
+    "DB_MAX_OVERFLOW":10,
+    "DB_POOL_TIMEOUT":30,
+    "DB_POOL_RECYCLE":1800,
+    "BC_ORDER_GROUP_ID": "bc_order_group_id-dev",
+    "LZ_ORDER_GROUP_ID": "lz_order_group_id-dev",
+    "SHOPEE_ORDER_GROUP_ID": "shopee_order_group_id-dev",
+    "TIKTOK_ORDER_GROUP_ID": "tiktok_order_group_id-dev",
+    "UPDATE_ORDER_SYNC_AUTO_INTERVAL_MINUTES":5,
+    "VALID_ORDER_SYNC_TO_MISA_AUTO_INTERVAL_MINUTES":5,
+    "ORDER_SYNC_AUTO_LIMIT":20
 }
