@@ -9,7 +9,7 @@
     "AUDIENCE": "audience",
     "EXPIRATION_SECONDS": 36000,
     "REFRESH_TOKEN_EXPIRATION_SECONDS": 7200,
-    "CORS_ORIGINS": "http://localhost,http://localhost:8000,http://localhost:8080,https://admin.unisell.vn",
+    "CORS_ORIGINS": "http://localhost,http://localhost:8000,http://localhost:8080,https://admin.gosell.vn",
     "MISA_ACCOUNTING_CUSTOMERS_TAKE": 1000,
     "REDIS_URL": "redis://redis.beecow.info:6379",
     "API_GOSELL_BASE_URL": "https://api.beecow.info",
