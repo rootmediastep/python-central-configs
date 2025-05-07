@@ -14,7 +14,7 @@
     "REDIS_URL": "redis://redis.beecow.info:6379",
     "API_GOSELL_BASE_URL": "https://api.beecow.info",
     "ELASTICSEARCH_URL": "http://10.83.45.232:9200",
-    "KAFKA_SERVERS": "kafka.beecow.info:9092",
+    "KAFKA_SERVERS": "10.83.45.246:9092",
     "DB_POOL_SIZE":20,
     "DB_MAX_OVERFLOW":10,
     "DB_POOL_TIMEOUT":30,
