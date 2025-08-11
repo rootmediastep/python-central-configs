@@ -23,7 +23,13 @@
     "LZ_ORDER_GROUP_ID": "lz_order_group_id-dev",
     "SHOPEE_ORDER_GROUP_ID": "shopee_order_group_id-dev",
     "TIKTOK_ORDER_GROUP_ID": "tiktok_order_group_id-dev",
+    "ITEM_CHANNEL_GROUP_ID": "misaServices-itemChannel",
     "UPDATE_ORDER_SYNC_AUTO_INTERVAL_MINUTES":5,
     "VALID_ORDER_SYNC_TO_MISA_AUTO_INTERVAL_MINUTES":5,
-    "ORDER_SYNC_AUTO_LIMIT":20
+    "ORDER_SYNC_AUTO_LIMIT":20,
+    "APP_NAME": "misaServices",
+    "LOGSTASH_HOST": "jhipster-logstash",
+    "LOGSTASH_PORT": "5000",
+    "LOGSTASH_ENABLED": "True"
 }
+
