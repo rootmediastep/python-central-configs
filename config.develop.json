@@ -28,8 +28,9 @@
     "VALID_ORDER_SYNC_TO_MISA_AUTO_INTERVAL_MINUTES":5,
     "ORDER_SYNC_AUTO_LIMIT":20,
     "APP_NAME": "misaServices",
-    "LOGSTASH_HOST": "jhipster-logstash",
+    "LOGSTASH_HOST": "dev-svc.hotsell.vn",
     "LOGSTASH_PORT": "5000",
     "LOGSTASH_ENABLED": "True"
 }
+
 
